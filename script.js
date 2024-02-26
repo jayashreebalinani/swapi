@@ -55,3 +55,4 @@ function displayPagination() {
 }
 
 fetchPlanets(nextPage);
+
